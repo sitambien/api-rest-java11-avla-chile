@@ -15,7 +15,7 @@ Se debe tener instalado Java 11 y Gradle en el sistema
 
 3.1.1. Comandos de para clonar el proyecto desde git
 
-git clone https://github.com/sitambien/api-rest-avla-chile-202304.git
+git clone https://github.com/sitambien/api-rest-java11-avla-chile.git
 
 3.1.2. Se debe abrir la consola en el directorio raiz del proyecto
 
@@ -45,7 +45,7 @@ git clone https://github.com/sitambien/api-rest-avla-chile-202304.git
 
 3.3.1. Comandos de para clonar el proyecto desde git
 
-git clone https://github.com/sitambien/api-rest-avla-chile-202304.git
+git clone https://github.com/sitambien/api-rest-java11-avla-chile.git
 
 3.3.2. Se debe abrir la consola en el directorio raiz del proyecto
 
