@@ -5,7 +5,7 @@ un CRUD de usuarios, recibiendo y respondiendo en formato JSON.
 
 2.- Tecnologías
 
-Desarrollé en Java, Spring boot (2.7.10) y Gradle. La versión de java es la 11. Para documentar se utilizó swagger. Se puede consulta la documentación, una vez levantado el proyecto en: http://localhost:8080/swagger-ui/index.html. Hice los primeros request con Postman. La base de datos es en memoria y el motor es H2. También incluye el paquete de Docker.
+Desarrollé en Java, Spring boot (2.7.10) y Gradle. La versión de java es la 11. Para documentar se utilizó swagger. Se puede consulta la documentación, una vez levantado el proyecto en: http://localhost:8080/swagger-ui.html. Hice los primeros request con Postman. La base de datos es en memoria y el motor es H2. También incluye el paquete de Docker.
 
 3.- Instrucciones e instalación
 
